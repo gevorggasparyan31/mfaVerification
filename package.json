@@ -1,0 +1,8 @@
+{
+  "name": "mfaVerification",
+  "version": "1.0.0",
+  "dependencies": {
+    "qrcode": "^1.5.3",
+    "speakeasy": "^2.0.0"
+  }
+}
